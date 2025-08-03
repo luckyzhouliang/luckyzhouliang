@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=700&color=2FF7D6&center=true&vCenter=true&width=450&lines=Hey+there!+I'm+luckyzhouliang;Crafting+code+with+style+and+passion." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=700&color=00FFD0&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+luckyzhouliang;Crafting+code+with+style+and+passion." alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -51,6 +51,14 @@ I turn ☕ into code, bugs into features, and ideas into reality.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckyzhouliang&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luckyzhouliang&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/luckyzhouliang?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&logo=github&color=7e5bef&style=for-the-badge"/>
 </p>
 
 ---
